@@ -23,7 +23,7 @@
 1. Commit and Push your Changes to GitHub
 1. Create a new branch called "code"
 1. Within that branch create an empty demo.cpp file
-1. Commit and Push your Changes to GitHub
+1. Add, Commit, and Push your Changes to GitHub
 
 
 Need more help? Try [codecademy](https://www.codecademy.com/learn/learn-git)
