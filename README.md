@@ -16,10 +16,10 @@
 ## Learning Git
 1. Go to the following [site](https://try.github.io/levels/1/challenges/1) and complete the 25 Challenges
 1. Take a ScreenShot of the Completed Page 
-1. Save the ScreenShot in the `proof` folder within your repository
+1. Save the ScreenShot in the [`proof`](/proof) folder within your repository
 1. Add the ScreenShot to Git
 1. Commit and Push to your GitHub Repository
-1. Update the facts.txt file with 2 truths and 1 lie about you
+1. Update the [facts.md](facts.md) file with 2 truths and 1 lie about you
 1. Commit and Push your Changes to GitHub
 1. Create a new branch called "code"
 1. Within that branch create an empty demo.cpp file
